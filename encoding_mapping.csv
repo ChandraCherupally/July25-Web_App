@@ -1,0 +1,11 @@
+category,label,code
+fuel_type,Diesel,1
+fuel_type,Petrol,2
+fuel_type,CNG,3
+fuel_type,LPG,4
+fuel_type,Electric,5
+seller_type,Dealer,1
+seller_type,Individual,2
+seller_type,Trustmark Dealer,3
+transmission_type,Manual,1
+transmission_type,Automatic,2
