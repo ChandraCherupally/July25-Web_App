@@ -46,7 +46,7 @@ def model_pred(input_features):
 if st.button('Predict Price'):
     # Filter by both category and label
     predicted_price = model_pred(input_features)
-    st.write(f"The predicted price of the car is: ₹{predicted_price[0]:,.2f} lac")
+    st.write(f"The predicted price of the car is @: ₹{predicted_price[0]:,.2f} lac")
 
 
 
